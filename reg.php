@@ -1,3 +1,3 @@
 <?php
-echo "Good Morning  welcome to Oges";
-?>
+echo "jubzzz";
+ ?>
